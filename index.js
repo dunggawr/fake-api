@@ -14,13 +14,13 @@ const fakeData = {
             title: "Minimal English",
             slogan: "Học giản đơn, đạt aim hơn!",
             image: {
-                imgae_1: "/images/banner/banner_1.png",
-                imgae_2: "/images/banner/banner_2.png",
-                imgae_3: "/images/banner/banner_3.png",
-                imgae_4: "/images/banner/banner_4.png",
-                imgae_5: "/images/banner/banner_5.png",
-                imgae_6: "/images/banner/banner_6.png",
-                imgae_7: "/images/banner/banner_7.png"
+                image_1: "/images/banner/banner_1.png",
+                image_2: "/images/banner/banner_2.png",
+                image_3: "/images/banner/banner_3.png",
+                image_4: "/images/banner/banner_4.png",
+                image_5: "/images/banner/banner_5.png",
+                image_6: "/images/banner/banner_6.png",
+                image_7: "/images/banner/banner_7.png"
             },
             content: "Minimal English là lớp học IELTS chuyên biệt với mục tiêu giúp học viên đạt mục tiêu trong kỳ thi IELTS thông qua phương pháp học tối giản và hiệu quả. Chúng tôi kết hợp giữa phương pháp Hybrid Learning và sự phân hóa trình độ để cá nhân hóa việc học, đảm bảo mỗi học viên đều nhận được sự chú ý và hỗ trợ tối đa."
         },
