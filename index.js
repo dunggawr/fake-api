@@ -15,10 +15,10 @@ const fakeData = {
             slogan: "Học giản đơn, đạt aim hơn!",
             image: {
                 image_1: "/images/banner/banner_1.png",
-                image_2: "/images/banner/banner_2.png",
-                image_3: "/images/banner/banner_3.png",
+                image_2: "/images/banner/banner_2.jpeg",
+                image_3: "/images/banner/banner_3.jpeg",
                 image_4: "/images/banner/banner_4.png",
-                image_5: "/images/banner/banner_5.png",
+                image_5: "/images/banner/banner_5.jpeg",
                 image_6: "/images/banner/banner_6.png",
                 image_7: "/images/banner/banner_7.png"
             },
