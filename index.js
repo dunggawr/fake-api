@@ -13,11 +13,24 @@ const fakeData = {
         banner: {
             title: "Minimal English",
             slogan: "Học giản đơn, đạt aim hơn!",
+            image: {
+                imgae_1: "/images/banner/banner_1.png",
+                imgae_2: "/images/banner/banner_2.png",
+                imgae_3: "/images/banner/banner_3.png",
+                imgae_4: "/images/banner/banner_4.png",
+                imgae_5: "/images/banner/banner_5.png",
+                imgae_6: "/images/banner/banner_6.png",
+                imgae_7: "/images/banner/banner_7.png"
+            },
             content: "Minimal English là lớp học IELTS chuyên biệt với mục tiêu giúp học viên đạt mục tiêu trong kỳ thi IELTS thông qua phương pháp học tối giản và hiệu quả. Chúng tôi kết hợp giữa phương pháp Hybrid Learning và sự phân hóa trình độ để cá nhân hóa việc học, đảm bảo mỗi học viên đều nhận được sự chú ý và hỗ trợ tối đa."
         },
         about_us: {
             label: "VỀ MINIMAL ENGLISH",
-            title: "Là nơi khởi nguồn từ '/' đam mê và nghị lực",
+            title: ["Là nơi khởi nguồn từ", "đam mê và nghị lực"],
+            image: {
+                image_1: "/images/about/about_1.jpeg",
+                image_2: "/images/about/about_2.jpeg",
+            },
             content: "Với phương pháp Hybrid Learning, kết hợp giữa học trực tiếp và học trực tuyến, chúng tôi mang đến cho học viên môi trường thân thiện, phương pháp học tập tối giản nhưng hiệu quả. Tại Minimal English, học viên không chỉ học kiến thức mà còn nhận được sự tự tin và động lực để phát triển. Chúng tôi cam kết mang lại chất lượng giảng dạy tốt nhất, giúp học viên đạt được mục tiêu học tập và vượt qua mọi thử thách."
         },
         outstanding_class: {
@@ -80,6 +93,7 @@ const fakeData = {
         why_us: {
             label: "TẠI SAO CHỌN MINIMAL ENGLISH",
             title: "Lợi ích khi học tại Minimal English",
+            image: "/images/why_image.jpeg",
             info_why_us: [
                 {
                     title: "Phương pháp học tập Tối Giản",
@@ -115,11 +129,13 @@ const fakeData = {
     about_us:{
         mission: {
             label: "Sứ mệnh",
+            image: "/images/about/IMG_3106.png",
             content_1: "Minimal English cam kết mang lại môi trường học tập hiệu quả và thân thiện, giúp học sinh phát triển toàn diện kỹ năng ngôn ngữ và tự tin trong cuộc sống.",
             content_2: "Chúng tôi tập trung vào sự tối giản nhưng không đơn giản trong phương pháp giảng dạy, giúp học sinh đạt được mục tiêu học tập và vượt qua mọi thử thách"
         },
         vision: {
             label: "Tầm nhìn",
+            image: "/images/about/IMG_2711.png",
             content: "Với tầm nhìn xa và trái tim đầy nhiệt huyết, Minimal English mong muốn trở thành lớp học tiếng Anh hàng đầu, giúp đỡ các em học sinh hiện thực hóa ước mơ. Chúng tôi tin rằng, giáo dục không phải là con đường duy nhất dẫn đến thành công nhưng sẽ là con đường chắc chắn và an toàn nhất. Chúng tôi cam kết lan tỏa phương pháp và giá trị của Minimal English tới nhiều học sinh hơn nữa."
         },
         brand_story: {
