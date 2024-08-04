@@ -145,7 +145,7 @@ const fakeData = {
                 }
             ]
         },
-        videoId: "dQw4w9WgXcQ?si=p96zzuzrY96d-97N"    
+        videoId: "dQw4w9WgXcQ"    
     },
     about_us:{
         mission: {
