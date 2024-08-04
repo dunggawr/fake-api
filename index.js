@@ -79,34 +79,18 @@ const fakeData = {
             title: "Phản hồi của học viên/ phụ huynh về Minimal English",
             info_testimonials: [
                 {
-                    name : "Nguyễn Thảo Uyên",
-                    address: "Nam Đàn, Nghệ An",
-                    image: "/images/testimonial/2fb3451f2790627112ebba6732cb7a49.jfif",
-                    content: "Trước khi được biết tới Minimal English, em chỉ là một học sinh nhút nhát và thiếu tự tin về khả năng tiếng Anh của mình. So với các bạn đồng trang lứa, khả năng tiếng Anh của em kém về mọi mặt, trong khi đó, gia đình em lại không đủ điều kiện cho em đi học thêm như các bạn khác. Bố mẹ em rất buồn và lo lắng cho tương lai của em sau này."
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
                 },
                 {
-                    name : "Nguyễn Thảo Uyên",
-                    address: "Nam Đàn, Nghệ An",
-                    image: "/images/testimonial/5511bd0e458c8720e5240409b3476954.jfif",
-                    content: "Trước khi được biết tới Minimal English, em chỉ là một học sinh nhút nhát và thiếu tự tin về khả năng tiếng Anh của mình. So với các bạn đồng trang lứa, khả năng tiếng Anh của em kém về mọi mặt, trong khi đó, gia đình em lại không đủ điều kiện cho em đi học thêm như các bạn khác. Bố mẹ em rất buồn và lo lắng cho tương lai của em sau này."
-                },
-                {
-                    name : "Nguyễn Thảo Uyên",
-                    address: "Nam Đàn, Nghệ An",
-                    image: "/images/testimonial/2fb3451f2790627112ebba6732cb7a49.jfif",
-                    content: "Trước khi được biết tới Minimal English, em chỉ là một học sinh nhút nhát và thiếu tự tin về khả năng tiếng Anh của mình. So với các bạn đồng trang lứa, khả năng tiếng Anh của em kém về mọi mặt, trong khi đó, gia đình em lại không đủ điều kiện cho em đi học thêm như các bạn khác. Bố mẹ em rất buồn và lo lắng cho tương lai của em sau này."
-                },
-                {
-                    name : "Nguyễn Thảo Uyên",
-                    address: "Nam Đàn, Nghệ An",
-                    image: "/images/testimonial/5511bd0e458c8720e5240409b3476954.jfif",
-                    content: "Trước khi được biết tới Minimal English, em chỉ là một học sinh nhút nhát và thiếu tự tin về khả năng tiếng Anh của mình. So với các bạn đồng trang lứa, khả năng tiếng Anh của em kém về mọi mặt, trong khi đó, gia đình em lại không đủ điều kiện cho em đi học thêm như các bạn khác. Bố mẹ em rất buồn và lo lắng cho tương lai của em sau này."
-                },
-                {
-                    name : "Nguyễn Thảo Uyên",
-                    address: "Nam Đàn, Nghệ An",
-                    image: "/images/testimonial/2fb3451f2790627112ebba6732cb7a49.jfif",
-                    content: "Trước khi được biết tới Minimal English, em chỉ là một học sinh nhút nhát và thiếu tự tin về khả năng tiếng Anh của mình. So với các bạn đồng trang lứa, khả năng tiếng Anh của em kém về mọi mặt, trong khi đó, gia đình em lại không đủ điều kiện cho em đi học thêm như các bạn khác. Bố mẹ em rất buồn và lo lắng cho tương lai của em sau này."
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
+                },                {
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
+                },                {
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
+                },                {
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
+                },                {
+                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
                 },
             ]
         },
