@@ -253,7 +253,7 @@ const fakeData = {
                 },
                 {
                     year: "Nguyễn Anh Tú",
-                    content: [
+                    "content": [
                     "Giảng viên Junior",
                     "Tốt nghiệp Cử nhân chuyên ngành Sư phạm, Vietnam University of Fine Arts ",
                     "3 năm kinh nghiệm trong lĩnh vực giáo dục",
@@ -261,8 +261,8 @@ const fakeData = {
                     ]
                 },
                 {
-                    year: "Sơn Nguyễn",
-                    content: [
+                    "year": "Sơn Nguyễn",
+                    "content": [
                     "Trợ giảng & nhân viên học thuật",
                     "Vinschool Times City Middle School & High School 2016 - 2023: GPA 8.8",
                     "Cử nhân ngành khoa học máy tính (Đại học Công nghệ Swinburne Việt Nam) 2023 - 2026",
