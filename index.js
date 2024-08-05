@@ -207,18 +207,20 @@ const fakeData = {
                 {
                     year: "Cô Hằng Nga Luna",
                     username:"Founder kiêm giảng viên chính",
+                    image: "/images/Lectures/lectures1.jfif",
                     content: [                   
                     "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh  (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
                     "8.0 IELTS Overall ( 8.5 Speaking & 7.5 Writing )",
                     "Tác giả cuốn sách học ngữ pháp nền tảng qua Mindmap",
                     "Tác giả cuốn sách luyện thi IELTS Key Grammar, nhà xuất bản Đại Học Quốc Gia Hà Nội.",
                     "12 năm kinh nghiệm giảng dạy IELTS và tiếng Anh học thuật.",
-                    "8 năm kinh nghiệm phát triển khung chương trình Ngữ pháp tiếng Anh cho học viên mọi cấp độ."
+                    "8 năm kinh nghiệm phát triển khung chương trình Ngữ pháp tiếng Anh cho học viên mọi cấp độ."                    
                     ]                    
                 },
                 {                    
                     year: "Cô Nguyễn Phương",
                     username:"Giảng viên",
+                    image: "/images/Lectures/lectures2.jfif",
                     content: [                   
                     "Tốt nghiệp loại giỏi Đại học ngành Khoa học Quản lý, Đại học KHXH & NV, ĐHQG Hà Nội. Học bổng loại giỏi tất cả các kỳ học.",
                     "Tốt nghiệp ngành Ngôn ngữ Anh, đại học Hà Nội (hệ vừa học vừa làm)",
@@ -232,6 +234,7 @@ const fakeData = {
                 {
                     year: "Thầy Tuấn Anh",
                     username:"Giảng viên",
+                    image: "/images/Lectures/lectures3.jfif",
                     content: [                    
                     "TIELTS 8.0 Overall, (8.5 speaking, 7.5 writting",
                     "Cử nhân Luật Quốc tế.",
@@ -244,6 +247,7 @@ const fakeData = {
                 {
                     year: "Đỗ Đức",
                     username:"Nhân viên học thuật",
+                    image: "/images/Lectures/lectures4.jfif",
                     content: [                    
                     "Tốt nghiệp THPT Thăng Long",
                     "Đạt danh hiệu học sinh giỏi trong 3 năm cấp 3, điểm trung bình môn tiếng anh luôn >9.0. Bài thi môn Tiếng Anh THPTQG đạt 9.6.)",
@@ -254,6 +258,7 @@ const fakeData = {
                 {
                     year: "Nguyễn Anh Tú",
                     username:"Giảng viên Junior",
+                    image: "/images/Lectures/lectures5.png",
                     content: [                   
                     "Tốt nghiệp Cử nhân chuyên ngành Sư phạm, Vietnam University of Fine Arts ",
                     "3 năm kinh nghiệm trong lĩnh vực giáo dục",
@@ -263,6 +268,7 @@ const fakeData = {
                 {
                     year: "Sơn Nguyễn",
                     username:"Trợ giảng & nhân viên học thuật",
+                    image: "/images/Lectures/lectures6.jfif",
                     content: [                    
                     "Vinschool Times City Middle School & High School 2016 - 2023: GPA 8.8",
                     "Cử nhân ngành khoa học máy tính (Đại học Công nghệ Swinburne Việt Nam) 2023 - 2026",
