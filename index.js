@@ -195,7 +195,7 @@ const fakeData = {
                 {
                     year: "Cô Hằng Nga Luna",
                     username:"Founder kiêm giảng viên chính",
-                    image: "/images/Lectures/lectures1.jfif",
+                    image: "/images/Lectures/lectures1.png",
                     content: [                   
                     "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh  (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
                     "8.0 IELTS Overall ( 8.5 Speaking & 7.5 Writing )",
@@ -208,7 +208,7 @@ const fakeData = {
                 {                    
                     year: "Cô Nguyễn Phương",
                     username:"Giảng viên",
-                    image: "/images/Lectures/lectures2.jfif",
+                    image: "/images/Lectures/lectures2.png",
                     content: [                   
                     "Tốt nghiệp loại giỏi Đại học ngành Khoa học Quản lý, Đại học KHXH & NV, ĐHQG Hà Nội. Học bổng loại giỏi tất cả các kỳ học.",
                     "Tốt nghiệp ngành Ngôn ngữ Anh, đại học Hà Nội (hệ vừa học vừa làm)",
@@ -222,7 +222,7 @@ const fakeData = {
                 {
                     year: "Thầy Tuấn Anh",
                     username:"Giảng viên",
-                    image: "/images/Lectures/lectures3.jfif",
+                    image: "/images/Lectures/lectures3.png",
                     content: [                    
                     "TIELTS 8.0 Overall, (8.5 speaking, 7.5 writting",
                     "Cử nhân Luật Quốc tế.",
@@ -235,7 +235,7 @@ const fakeData = {
                 {
                     year: "Đỗ Đức",
                     username:"Nhân viên học thuật",
-                    image: "/images/Lectures/lectures4.jfif",
+                    image: "/images/Lectures/lectures4.png",
                     content: [                    
                     "Tốt nghiệp THPT Thăng Long",
                     "Đạt danh hiệu học sinh giỏi trong 3 năm cấp 3, điểm trung bình môn tiếng anh luôn >9.0. Bài thi môn Tiếng Anh THPTQG đạt 9.6.)",
@@ -256,7 +256,7 @@ const fakeData = {
                 {
                     year: "Sơn Nguyễn",
                     username:"Trợ giảng & nhân viên học thuật",
-                    image: "/images/Lectures/lectures6.jfif",
+                    image: "/images/Lectures/lectures6.png",
                     content: [                    
                     "Vinschool Times City Middle School & High School 2016 - 2023: GPA 8.8",
                     "Cử nhân ngành khoa học máy tính (Đại học Công nghệ Swinburne Việt Nam) 2023 - 2026",
