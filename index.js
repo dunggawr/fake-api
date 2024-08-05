@@ -40,38 +40,39 @@ const fakeData = {
                 {
                     name: "Lớp Mầm",
                     description: "Lớp Mầm tại Minimal English dành cho những học viên có trình độ đầu vào từ 4.0+. Mục tiêu của lớp học là củng cố ...",
+                    isComing: false,
                     image: "/images/class/outstanding_class_1.png"
                 },
                 {
                     name: "Lớp Rễ",
                     description: "Lớp Rễ được thiết kế cho những học viên có trình độ đầu vào từ 5.0+. Lớp học này tập trung vào việc nâng cao kỹ năng tiếng Anh trung cấp và ...",
+                    isComing: false,
                     image: "/images/class/outstanding_class_2.png"
                 },
                 {
                     name: "Lớp Thân",
                     description: "Lớp Thân dành cho học viên có trình độ đầu vào từ 6.0+. Mục tiêu của lớp học là phát triển các kỹ năng tiếng Anh nâng cao và chuẩn bị kỹ lưỡng cho ...",
+                    isComing: false,
                     image: "/images/class/outstanding_class_3.png"
                 },
                 {
-                    name: "Lớp Về Đích",
-                    description: "Lớp Về Đích là lớp học miễn phí, dành riêng cho học sinh đã đóng tiền thi IELTS chính thức. Mục đích của lớp học này là hoàn thiện các ...",
-                    image: "/images/class/outstanding_class_4.png"
-                },
-                {
                     name: "Lớp Gốc Ngôn Ngữ",
-                    description: "Lớp Gốc Ngôn Ngữ được thiết kế để xây dựng nền tảng và tư duy gốc rễ, vững chắc cho tiếng Anh học thuật. Lớp học này phù hợp cho ...",
+                    description: "Sắp ra mắt trong thời gian tới",
+                    isComing: true,
                     image: "/images/class/outstanding_class_5.png"
                 },
                 {
-                    name: "Lớp Nhánh chuyên Listening & Reading",
-                    description: "Lớp Nhánh chuyên Nghe & Đọc chú trọng vào việc cải thiện kỹ năng Nghe và Đọc dưới áp lực thời gian, giúp học viên phát triển tư duy học kỹ năng ...",
-                    image: "/images/class/outstanding_class_6.png"
+                    name: "Lớp Nhánh - L/R/S/W",
+                    description: "Lớp Về Đích là lớp học miễn phí, dành riêng cho học sinh đã đóng tiền thi IELTS chính thức. Mục đích của lớp học này là hoàn thiện các ...",
+                    isComing: false,
+                    image: "/images/class/outstanding_class_4.png"
                 },
                 {
-                    name: "Lớp Nhánh chuyên Writing",
-                    description: "Lớp Nhánh chuyên Writing bao gồm ba chuyên đề chính: Tư duy của tiếng Anh học thuật, tư duy của văn miêu tả (Descriptive essay cho bài Task 1), và ...",
-                    image: "/images/class/outstanding_class_7.png"
-                }
+                    name: "COACH 1-1",
+                    description: "Sắp ra mắt trong thời gian tới",
+                    isComing: true,
+                    image: "/images/class/outstanding_class_6.png"
+                },
             ]
         },
         testimonial: {
