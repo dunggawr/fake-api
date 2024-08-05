@@ -40,38 +40,39 @@ const fakeData = {
                 {
                     name: "Lớp Mầm",
                     description: "Lớp Mầm tại Minimal English dành cho những học viên có trình độ đầu vào từ 4.0+. Mục tiêu của lớp học là củng cố ...",
-                    image: "/images/class/outstanding_class_1.png"
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: false
                 },
                 {
                     name: "Lớp Rễ",
                     description: "Lớp Rễ được thiết kế cho những học viên có trình độ đầu vào từ 5.0+. Lớp học này tập trung vào việc nâng cao kỹ năng tiếng Anh trung cấp và ...",
-                    image: "/images/class/outstanding_class_2.png"
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: false
                 },
                 {
                     name: "Lớp Thân",
                     description: "Lớp Thân dành cho học viên có trình độ đầu vào từ 6.0+. Mục tiêu của lớp học là phát triển các kỹ năng tiếng Anh nâng cao và chuẩn bị kỹ lưỡng cho ...",
-                    image: "/images/class/outstanding_class_3.png"
-                },
-                {
-                    name: "Lớp Về Đích",
-                    description: "Lớp Về Đích là lớp học miễn phí, dành riêng cho học sinh đã đóng tiền thi IELTS chính thức. Mục đích của lớp học này là hoàn thiện các ...",
-                    image: "/images/class/outstanding_class_4.png"
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: false
                 },
                 {
                     name: "Lớp Gốc Ngôn Ngữ",
-                    description: "Lớp Gốc Ngôn Ngữ được thiết kế để xây dựng nền tảng và tư duy gốc rễ, vững chắc cho tiếng Anh học thuật. Lớp học này phù hợp cho ...",
-                    image: "/images/class/outstanding_class_5.png"
+                    description: "Sắp ra mắt trong thời gian tới",
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: true,
+                },
+                {
+                    name: "Lớp Nhánh - L/R/S/W",
+                    description: "Chương trình chuyên sâu kĩ năng Nghe/Đọc/Nói/Viết: Tập trung vào phát triển vượt trội từng kĩ năng mà học sinh thường gặp khó khăn...",
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: false
                 },
                 {
                     name: "Lớp Nhánh chuyên Listening & Reading",
-                    description: "Lớp Nhánh chuyên Nghe & Đọc chú trọng vào việc cải thiện kỹ năng Nghe và Đọc dưới áp lực thời gian, giúp học viên phát triển tư duy học kỹ năng ...",
-                    image: "/images/class/outstanding_class_6.png"
+                    description: "Sắp ra mắt trong thời gian tới",
+                    image: "/images/class/6fbd72ad3101a7cf9f5cf9ff0701f392.jfif",
+                    isComing: true
                 },
-                {
-                    name: "Lớp Nhánh chuyên Writing",
-                    description: "Lớp Nhánh chuyên Writing bao gồm ba chuyên đề chính: Tư duy của tiếng Anh học thuật, tư duy của văn miêu tả (Descriptive essay cho bài Task 1), và ...",
-                    image: "/images/class/outstanding_class_7.png"
-                }
             ]
         },
         testimonial: {
@@ -82,15 +83,19 @@ const fakeData = {
                     image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
                 },
                 {
-                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
-                },                {
-                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
-                },                {
-                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
-                },                {
-                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
-                },                {
-                    image: "/images/testimonial/1c3cc03d440cbc22e0fa47e9c4d4f6b7.jfif"
+                    image: "/images/testimonial/2caa326fe1ffb33b404c80789f0655e4.jfif"
+                },
+                {
+                    image: "/images/testimonial/9fec57db7007ec186ef7e2aab6e6d089.jfif"
+                }, 
+                {
+                    image: "/images/testimonial/36a8082970b48a7e75cfcd229cb9b4e9.jfif"
+                }, 
+                {
+                    image: "/images/testimonial/202d7d8dc7696addf43548bd27426cf7.jfif"
+                }, 
+                {
+                    image: "/images/testimonial/dda8397f1b95bbd70947a6edf7f4057e.jfif"
                 },
             ]
         },
@@ -129,9 +134,9 @@ const fakeData = {
                 }
             ]
         },
-        videoId: "dQw4w9WgXcQ"    
+        videoId: "dQw4w9WgXcQ"
     },
-    about_us:{
+    about_us: {
         mission: {
             label: "Sứ mệnh",
             image: "/images/about/IMG_3106.png",
@@ -183,66 +188,66 @@ const fakeData = {
             }
         },
         "lectures": {
-            "label":"Giảng viên",
+            "label": "Giảng viên",
             "description": "Các giảng viên tại Minimal English",
             "detail_lectures": [
                 {
                     "year": "Cô Hằng Nga Luna",
                     "content": [
-                    "Founder kiêm giảng viên chính",
-                    "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh  (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
-                    "8.0 IELTS Overall ( 8.5 Speaking & 7.5 Writing )",
-                    "Tác giả cuốn sách học ngữ pháp nền tảng qua Mindmap",
-                    "Tác giả cuốn sách luyện thi IELTS Key Grammar, nhà xuất bản Đại Học Quốc Gia Hà Nội.",
-                    "12 năm kinh nghiệm giảng dạy IELTS và tiếng Anh học thuật.",
-                    "8 năm kinh nghiệm phát triển khung chương trình Ngữ pháp tiếng Anh cho học viên mọi cấp độ."
-                    ]                    
+                        "Founder kiêm giảng viên chính",
+                        "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh  (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
+                        "8.0 IELTS Overall ( 8.5 Speaking & 7.5 Writing )",
+                        "Tác giả cuốn sách học ngữ pháp nền tảng qua Mindmap",
+                        "Tác giả cuốn sách luyện thi IELTS Key Grammar, nhà xuất bản Đại Học Quốc Gia Hà Nội.",
+                        "12 năm kinh nghiệm giảng dạy IELTS và tiếng Anh học thuật.",
+                        "8 năm kinh nghiệm phát triển khung chương trình Ngữ pháp tiếng Anh cho học viên mọi cấp độ."
+                    ]
                 },
-                {                    
+                {
                     "year": "Cô Nguyễn Phương",
                     "content": [
-                    "Giảng viên",
-                    "Tốt nghiệp loại giỏi Đại học ngành Khoa học Quản lý, Đại học KHXH & NV, ĐHQG Hà Nội. Học bổng loại giỏi tất cả các kỳ học.",
-                    "Tốt nghiệp ngành Ngôn ngữ Anh, đại học Hà Nội (hệ vừa học vừa làm)",
-                    "Học bổng cho Sinh viên tiêu biểu của Quỹ Chungsoo Foundation.",
-                    "Giải 3 nghiên cứu Khoa học SV.",
-                    "Học bổng ctr Thạc sĩ Quản trị Kinh doanh, Ctrinh đào tạo bằng Tiếng Anh, Đại học Việt Nhật, Đại học Quốc gia Hà Nội.",
-                    "Nghiên cứu Sinh tiến sĩ đại học Corvinus University of Budapest ",
-                    "Giảng viên tại Đại học Đại Nam 2022 - nay"
+                        "Giảng viên",
+                        "Tốt nghiệp loại giỏi Đại học ngành Khoa học Quản lý, Đại học KHXH & NV, ĐHQG Hà Nội. Học bổng loại giỏi tất cả các kỳ học.",
+                        "Tốt nghiệp ngành Ngôn ngữ Anh, đại học Hà Nội (hệ vừa học vừa làm)",
+                        "Học bổng cho Sinh viên tiêu biểu của Quỹ Chungsoo Foundation.",
+                        "Giải 3 nghiên cứu Khoa học SV.",
+                        "Học bổng ctr Thạc sĩ Quản trị Kinh doanh, Ctrinh đào tạo bằng Tiếng Anh, Đại học Việt Nhật, Đại học Quốc gia Hà Nội.",
+                        "Nghiên cứu Sinh tiến sĩ đại học Corvinus University of Budapest ",
+                        "Giảng viên tại Đại học Đại Nam 2022 - nay"
                     ]
                 },
                 {
                     "year": "Đỗ Đức",
                     "content": [
-                    "Nhân viên học thuật",
-                    "Tốt nghiệp THPT Thăng Long",
-                    "Đạt danh hiệu học sinh giỏi trong 3 năm cấp 3, điểm trung bình môn tiếng anh luôn >9.0. Bài thi môn Tiếng Anh THPTQG đạt 9.6.)",
-                    "Hiện tại là sinh viên năm 2 trường Đại Học Ngoại Thương, khoa CLC Tiếng Anh Thương Mại.",
-                    "Từng làm trợ giảng tại Trung tâm AMES ENGLISH TIMES CITY"
+                        "Nhân viên học thuật",
+                        "Tốt nghiệp THPT Thăng Long",
+                        "Đạt danh hiệu học sinh giỏi trong 3 năm cấp 3, điểm trung bình môn tiếng anh luôn >9.0. Bài thi môn Tiếng Anh THPTQG đạt 9.6.)",
+                        "Hiện tại là sinh viên năm 2 trường Đại Học Ngoại Thương, khoa CLC Tiếng Anh Thương Mại.",
+                        "Từng làm trợ giảng tại Trung tâm AMES ENGLISH TIMES CITY"
                     ]
                 },
                 {
                     "year": "Nguyễn Anh Tú",
                     "content": [
-                    "Giảng viên Junior",
-                    "Tốt nghiệp Cử nhân chuyên ngành Sư phạm, Vietnam University of Fine Arts ",
-                    "3 năm kinh nghiệm trong lĩnh vực giáo dục",
-                    "1 năm kinh nghiệm giảng dạy và ôn thi tiếng Anh các cấp"                    
+                        "Giảng viên Junior",
+                        "Tốt nghiệp Cử nhân chuyên ngành Sư phạm, Vietnam University of Fine Arts ",
+                        "3 năm kinh nghiệm trong lĩnh vực giáo dục",
+                        "1 năm kinh nghiệm giảng dạy và ôn thi tiếng Anh các cấp"
                     ]
                 },
                 {
                     "year": "Sơn Nguyễn",
                     "content": [
-                    "Trợ giảng & nhân viên học thuật",
-                    "Vinschool Times City Middle School & High School 2016 - 2023: GPA 8.8",
-                    "Cử nhân ngành khoa học máy tính (Đại học Công nghệ Swinburne Việt Nam) 2023 - 2026",
-                    "Thực tập sinh KITE (Kids Tech), đóng góp vào việc phát triển tài liệu học tập và hỗ trợ giảng viên trong việc chuẩn bị bài giảng cho trẻ em.",
-                    "Thực tập sinh tại Đơn vị Hỗ trợ và Chăm sóc Kỹ thuật Khách hàng, Phòng Hỗ trợ Kỹ thuật, GreenCloud (365 Group LLC)."                    
+                        "Trợ giảng & nhân viên học thuật",
+                        "Vinschool Times City Middle School & High School 2016 - 2023: GPA 8.8",
+                        "Cử nhân ngành khoa học máy tính (Đại học Công nghệ Swinburne Việt Nam) 2023 - 2026",
+                        "Thực tập sinh KITE (Kids Tech), đóng góp vào việc phát triển tài liệu học tập và hỗ trợ giảng viên trong việc chuẩn bị bài giảng cho trẻ em.",
+                        "Thực tập sinh tại Đơn vị Hỗ trợ và Chăm sóc Kỹ thuật Khách hàng, Phòng Hỗ trợ Kỹ thuật, GreenCloud (365 Group LLC)."
                     ]
                 }
 
             ]
-       }
+        }
     }
 };
 
