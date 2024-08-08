@@ -106,31 +106,31 @@ const fakeData = {
             info_why_us: [
                 {
                     title: "Phương pháp học tập Tối Giản",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Giảng viên chuyên nghiệp",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Hỗ trợ tối đa cho học viên",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Chính sách học phí linh hoạt",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Môi trường học thân thiện",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Công nghệ tiên tiến",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Hỗ trợ toàn diện",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 }
             ]
         },
