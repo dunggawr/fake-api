@@ -191,16 +191,16 @@ const fakeData = {
             }
         },
         lectures: {
-            label:"Giảng viên",
+            label:"GIẢNG VIÊN",
             description: "Các giảng viên tại Minimal English",
             detail_lectures: [
                 {
                     year: "Cô Hằng Nga Luna",
                     username:"Founder kiêm giảng viên chính",
                     image: "/images/Lectures/lectures1.png",
-                    content: [                   
-                    "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh  (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
+                    content: [                                     
                     "8.0 IELTS Overall ( 8.5 Speaking & 7.5 Writing )",
+                    "Tốt nghiệp Thạc sĩ Lý Luận và Phương Pháp Giảng Dạy Tiếng Anh (MTESOL), Đại học Victoria - Melbourne - Australia cấp năm 2018",
                     "Tác giả cuốn sách học ngữ pháp nền tảng qua Mindmap",
                     "Tác giả cuốn sách luyện thi IELTS Key Grammar, nhà xuất bản Đại Học Quốc Gia Hà Nội.",
                     "12 năm kinh nghiệm giảng dạy IELTS và tiếng Anh học thuật.",
@@ -226,7 +226,7 @@ const fakeData = {
                     username:"Giảng viên",
                     image: "/images/Lectures/lectures3.png",
                     content: [                    
-                    "TIELTS 8.0 Overall, (8.5 speaking, 7.5 writting",
+                    "IELTS 8.0 Overall, (8.5 speaking, 7.5 writting)",
                     "Cử nhân Luật Quốc tế.",
                     "Kinh nhiệm giảng dạy: 7 năm",
                     "Kinh nghiệm làm việc 3.5 năm tại môi trường quốc tế.",
