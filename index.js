@@ -106,31 +106,31 @@ const fakeData = {
             info_why_us: [
                 {
                     title: "Phương pháp học tập Tối Giản",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Giảng viên chuyên nghiệp",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Hỗ trợ tối đa cho học viên",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Chính sách học phí linh hoạt",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Môi trường học thân thiện",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Công nghệ tiên tiến",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 },
                 {
                     title: "Hỗ trợ toàn diện",
-                    content: ""
+                    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quisquam id nihil inventore tempore aperiam, doloremque excepturi asperiores veritatis dolore reiciendis. Expedita minus voluptates optio quae corrupti iusto nesciunt praesentium?"
                 }
             ]
         },
@@ -307,49 +307,56 @@ const fakeData = {
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa..."
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
             },
         ],
         minimalNews:{},
