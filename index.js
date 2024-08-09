@@ -270,6 +270,35 @@ const fakeData = {
             ]
        }
     },
+    library:{
+        writing: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a",
+                view: "102 lượt xem",
+                time: "2 năm trước"
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1",
+                view: "102 lượt xem",
+                time: "2 năm trước"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a",
+                view: "102 lượt xem",
+                time: "2 năm trước"
+            },
+        ],
+        speaking: {},
+        reading: {},
+        listening: {},
+        vocabulary: {},
+        pronunciation: {},
+        paraphrases: {},
+        selfstudy: {}
+    },
     news_blog:{
         tips: {},
         ieltsNews: [
