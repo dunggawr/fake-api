@@ -300,7 +300,24 @@ const fakeData = {
         vocabulary: {},
         pronunciation: {},
         paraphrases: {},
-        selfstudy: {}
+        selfstudy: {},
+        document: [
+            {
+                title: "Đề luyện tập cho lớp Rễ",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Chuyên Speaking",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Mầm",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            }
+        ]
     },
     news_blog:{
         tips: {},
