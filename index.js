@@ -294,13 +294,167 @@ const fakeData = {
                 link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
             },
         ],
-        speaking: {},
-        reading: {},
-        listening: {},
-        vocabulary: {},
-        pronunciation: {},
-        paraphrases: {},
-        selfstudy: {},
+        speaking: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        reading: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        listening: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        vocabulary: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        pronunciation: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        paraphrases: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
+        selfstudy: [
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",  
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM"          
+            },
+            {
+                title: "Bài 5. Write Task1 + 2: Học ở bậc gì, cũng KHÔNG thoát các ...",
+                image: "/images/library/529fbadf9a788da26f816e8f785fa0c1.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=5kcOHNoW528&t=1s"
+            },
+            {
+                title: "Bài 6. Write Task 2: Các loại trong một nốt nhạc",
+                image: "/images/library/74bbca6266c0e208f4d14b8c2e35a53a.png",
+                view: "102 lượt xem",
+                time: "2 năm trước",
+                link: "https://www.youtube.com/watch?v=fmSqFyb3ZKM" 
+            },
+        ],
         document: [
             {
                 title: "Đề luyện tập cho lớp Rễ",
@@ -317,7 +471,75 @@ const fakeData = {
                 downloads: "100 lượt tải",
                 time: "2 năm trước"
             }
-        ]
+        ],
+        examstest: [
+            {
+                title: "Đề luyện tập cho lớp Rễ",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Chuyên Speaking",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Mầm",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            }
+        ],
+        examsyear: [
+            {
+                title: "Đề luyện tập cho lớp Rễ",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Chuyên Speaking",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Mầm",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            }
+        ],
+        skilldocument: [
+            {
+                title: "Đề luyện tập cho lớp Rễ",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Chuyên Speaking",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Mầm",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            }
+        ],
+        usermanual: [
+            {
+                title: "Đề luyện tập cho lớp Rễ",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Chuyên Speaking",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            },
+            {
+                title: "Đề luyện tập cho lớp Mầm",
+                downloads: "100 lượt tải",
+                time: "2 năm trước"
+            }
+        ],
     },
     news_blog:{
         tips: {},
