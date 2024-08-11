@@ -41,37 +41,43 @@ const fakeData = {
                     name: "Lớp Mầm",
                     description: "Lớp Mầm tại Minimal English dành cho những học viên có trình độ đầu vào từ 4.0+. Mục tiêu của lớp học là củng cố ...",
                     isComing: false,
-                    image: "/images/class/outstanding_class_1.png"
+                    image: "/images/class/outstanding_class_1.png",
+                    href: "/"
                 },
                 {
                     name: "Lớp Rễ",
                     description: "Lớp Rễ được thiết kế cho những học viên có trình độ đầu vào từ 5.0+. Lớp học này tập trung vào việc nâng cao kỹ năng tiếng Anh trung cấp và ...",
                     isComing: false,
-                    image: "/images/class/outstanding_class_2.png"
+                    image: "/images/class/outstanding_class_2.png",
+                    href: "/"
                 },
                 {
                     name: "Lớp Thân",
                     description: "Lớp Thân dành cho học viên có trình độ đầu vào từ 6.0+. Mục tiêu của lớp học là phát triển các kỹ năng tiếng Anh nâng cao và chuẩn bị kỹ lưỡng cho ...",
                     isComing: false,
-                    image: "/images/class/outstanding_class_3.png"
+                    image: "/images/class/outstanding_class_3.png",
+                    href: "/"
                 },
                 {
                     name: "Lớp Gốc Ngôn Ngữ",
                     description: "Sắp ra mắt trong thời gian tới",
                     isComing: true,
-                    image: "/images/class/outstanding_class_5.png"
+                    image: "/images/class/outstanding_class_5.png",
+                    href: "/"
                 },
                 {
                     name: "Lớp Nhánh - L/R/S/W",
                     description: "Lớp Về Đích là lớp học miễn phí, dành riêng cho học sinh đã đóng tiền thi IELTS chính thức. Mục đích của lớp học này là hoàn thiện các ...",
                     isComing: false,
-                    image: "/images/class/outstanding_class_4.png"
+                    image: "/images/class/outstanding_class_4.png",
+                    href: "/"
                 },
                 {
                     name: "COACH 1-1",
                     description: "Sắp ra mắt trong thời gian tới",
                     isComing: true,
-                    image: "/images/class/outstanding_class_6.png"
+                    image: "/images/class/outstanding_class_6.png",
+                    href: "/"
                 },
             ]
         },
@@ -542,40 +548,7 @@ const fakeData = {
         ],
     },
     news_blog:{
-        tips: {},
-        ieltsNews: [
-            {
-                tag: "ielts News",
-                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
-                publishInfor: "20/07/2024 - 10 phút đọc",
-                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
-                href: "/"
-            },
-            {
-                tag: "ielts News",
-                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
-                publishInfor: "20/07/2024 - 10 phút đọc",
-                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
-                href: "/"
-            },
-            {
-                tag: "ielts News",
-                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
-                publishInfor: "20/07/2024 - 10 phút đọc",
-                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
-                href: "/"
-            },
-            {
-                tag: "ielts News",
-                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
-                publishInfor: "20/07/2024 - 10 phút đọc",
-                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
-                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
-                href: "/"
-            },
+        tips: [
             {
                 tag: "ielts News",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
@@ -601,8 +574,84 @@ const fakeData = {
                 href: "/"
             },
         ],
-        minimalNews:{},
-        faq: {}
+        ieltsNews: [
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+        ],
+        minimalNews:[
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+        ],
+        faq: [
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+            {
+                tag: "ielts News",
+                image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
+                publishInfor: "20/07/2024 - 10 phút đọc",
+                title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
+                description: "Khi người dùng nhấp vào bài viết, hiển thị bài viết đầy đủ với 3-4 đoạn văn và 2-3 hình ảnh minh họa...",
+                href: "/"
+            },
+        ],
     }
 };
 
