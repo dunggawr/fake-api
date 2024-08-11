@@ -550,7 +550,7 @@ const fakeData = {
     news_blog:{
         tips: [
             {
-                tag: "ielts News",
+                tag: "tips",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -558,7 +558,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "tips",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -566,7 +566,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "tips",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -602,7 +602,7 @@ const fakeData = {
         ],
         minimalNews:[
             {
-                tag: "ielts News",
+                tag: "minimal english news",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -610,7 +610,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "minimal english news",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -618,7 +618,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "minimal english news",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -628,7 +628,7 @@ const fakeData = {
         ],
         faq: [
             {
-                tag: "ielts News",
+                tag: "faq",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -636,7 +636,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "faq",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
@@ -644,7 +644,7 @@ const fakeData = {
                 href: "/"
             },
             {
-                tag: "ielts News",
+                tag: "faq",
                 image: "/images/new&blog/fea461f0d5ca3b61b95aa37b6c089f7b.png",
                 publishInfor: "20/07/2024 - 10 phút đọc",
                 title: "Cách nâng band điểm IELTS hiệu quả, dễ dàng",
