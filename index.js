@@ -652,6 +652,25 @@ const fakeData = {
                 href: "/"
             },
         ],
+        detail: {
+            title: "IELTS Reading Tips: Những bí quyết cải thiện kỹ năng Reading khi luyện thi IELTS",
+            description: "Bài viết dưới đây sẽ chia sẻ những bí quyết làm bài giúp bạn tiết kiệm thời gian và tự tin chinh phục điểm số cao trong bài thi IELTS Reading.",
+            image: "/images/new&blog/b4e8f4f9889389e7e2957be4c96f35a1.jfif",
+            content: "Kỹ năng Đọc (Reading) thường ít được đề cập trong các kiến thức luyện thi IELTS, tuy nhiên đây lại là một phần thi cực kỳ quan trọng và đòi hỏi quá trình rèn luyện nghiêm túc để đạt điểm cao. Nếu bạn chưa trang bị đủ kiến thức nền tảng cũng như thời gian luyện thi chưa đủ, bạn sẽ khó mà đạt được mục tiêu về điểm số do mình đặt ra.",
+            content1: "Trong tất cả kỹ năng của bài thi IELTS, Reading là kỹ năng vô cùng quan trọng giúp giám khảo đánh giá khả năng nắm bắt ý chính, đọc để nhớ chi tiết, kỹ năng đọc lướt (skimming), đọc hiểu các lập luận chặt chẽ, và nhận ra quan điểm, thái độ và mục đích của những thông tin có trong bài.",
+            content2: "Một trong những điều quan trọng bạn cần lưu ý chính là việc thuần thục kỹ năng Paraphrase. Nắm rõ kiến thức paraphrase sẽ giúp bạn nhận biết thông tin và câu trả lời nhanh hơn trong bài thi IELTS Reading, vì sẽ rất hiếm khi bạn có thể tìm được nội dung câu trả lời ngay trong bài đọc.",
+            content3: "Vì phần thi IELTS Reading được thiết kế để kiểm tra sự hiểu biết của thí sinh về sự phức tạp của ngôn ngữ. Giám khảo từ đó cũng sẽ đánh giá khả năng nắm rõ ý chính, quan điểm thông qua cách diễn đạt và từ ngữ khác nhau.",
+            content4: "Với những bạn có tốc độ đọc chậm, bài kiểm tra IELTS Reading sẽ là một thử thách lớn đối với bạn. Hãy học cách đọc lướt và quét (Skimming và Scanning) nếu muốn tiết kiệm thời gian trong suốt quá trình làm bài.",
+            content5: {
+                ul: "Kỹ thuật Đọc lướt (Skimming) rèn luyện cho bạn cách chuyển động mắt nhanh lướt qua quan toàn bộ văn bản để tìm kiếm từ khóa quan trọng. Đọc lướt sẽ giúp bạn có cái nhìn tổng quát về bài đọc và tất cả tài liệu luyện tập. Bạn có thể áp dụng những bước sau:",
+                li: [
+                    "Hãy đọc đoạn đầu tiên thật kỹ để nắm rõ nội dung tổng quan của văn bản.",
+                    "Tiếp đến, hãy chú ý đến một vài câu đầu tiên của mỗi đoạn văn, điều này sẽ cung cấp cho bạn ý chính của từng đoạn.",
+                    "Luôn đọc kỹ đoạn cuối vì đoạn này thường chứa phần tóm tắt của toàn bài, một kết luận hoặc bài học rút ra cho một vấn đề được đề cập trong bài.",
+                ]
+            },
+            content6: "Các câu hỏi trong bài thi IELTS Reading thường bao gồm ngày tháng, tên, số và tất cả những yếu tố này sẽ xuất hiện trong phần trả lời bạn đang tìm kiếm. Skimming sẽ không đảm bảo giúp bạn biết hết được thông tin, nhưng Scanning lại làm được điều đó.",
+        }
     }
 };
 
